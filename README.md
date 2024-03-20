@@ -57,21 +57,21 @@ Para facilitar a codificação do projeto foi usado um protótipo do figma como 
 
 ## 📺 Vídeos no Youtube
 
-### #1 DISNEY PLUS - CRIANDO A INTERFACE E INTEGRANDO COM A API
+##### #1 DISNEY PLUS - CRIANDO A INTERFACE E INTEGRANDO COM A API
 
 <a href="https://www.youtube.com/watch?v=3pAnc4Miv00" target="_blank">
- <img src="https://img.youtube.com/vi/3pAnc4Miv00/maxresdefault.jpg" width="100%" height="auto" />
+ Vídeo 1
 </a>
 
 ---
-### #2 DISNEY PLUS - MELHORIAS DE PERFORMANCE E MENU LATERAL
+##### #2 DISNEY PLUS - MELHORIAS DE PERFORMANCE E MENU LATERAL
 
 <a href="https://www.youtube.com/watch?v=3IdLROHFKqM" target="_blank">
- <img src="https://img.youtube.com/vi/3IdLROHFKqM/maxresdefault.jpg" width="100%" height="auto" />
+  Vídeo 2
 </a>
 
-### #3 DISNEY PLUS - RESPONSIVIDADE E FORMULÁRIO PARA ADICIONAR FILME
+##### #3 DISNEY PLUS - RESPONSIVIDADE E FORMULÁRIO PARA ADICIONAR FILME
 
 <a href="https://www.youtube.com/watch?v=BybhUjC2wjc" target="_blank">
- <img src="https://img.youtube.com/vi/BybhUjC2wjc/maxresdefault.jpg" width="100%" height="auto" />
+  Vídeo 3
 </a>
