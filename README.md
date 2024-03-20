@@ -57,21 +57,19 @@ Para facilitar a codificação do projeto foi usado um protótipo do figma como 
 
 ## 📺 Vídeos no Youtube
 
-##### #1 DISNEY PLUS - CRIANDO A INTERFACE E INTEGRANDO COM A API
+##### #DISNEY PLUS - CRIANDO A INTERFACE E INTEGRANDO COM A API
 
 <a href="https://www.youtube.com/watch?v=3pAnc4Miv00" target="_blank">
  Vídeo 1
 </a>
 
----
-##### #2 DISNEY PLUS - MELHORIAS DE PERFORMANCE E MENU LATERAL
-
 <a href="https://www.youtube.com/watch?v=3IdLROHFKqM" target="_blank">
   Vídeo 2
 </a>
 
-##### #3 DISNEY PLUS - RESPONSIVIDADE E FORMULÁRIO PARA ADICIONAR FILME
-
 <a href="https://www.youtube.com/watch?v=BybhUjC2wjc" target="_blank">
   Vídeo 3
 </a>
+
+## Link
+[https://disneymais.netlify.app/](https://disneymais.netlify.app/)
