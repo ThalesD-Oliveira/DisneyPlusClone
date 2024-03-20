@@ -13,7 +13,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leovargasdev/disney-plus.svg" />
   </a>
   
-  <a href="https://github.com/leovargasdev/disney-plus/issues">
+  <a href="https://disneymais.netlify.app/">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/leovargasdev/disney-plus.svg" />
   </a>
 </p>
